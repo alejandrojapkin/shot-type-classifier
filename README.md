@@ -1,6 +1,6 @@
 <p align="justify"><h1> AI For Filmmaking </h1> </p>
 
-Code for the blog post [AI for Filmmaking](https://rsomani95.github.io/ai-film-1.html). Detect cinematic [shot types](https://rsomani95.github.io/ai-film-1.html#dataset) in images using a pre-trained `ResNet-50`.
+Code for the blog post [AI for Filmmaking](). Detect cinematic [shot types]() in images using a pre-trained `ResNet-50`.
 
 This model recognises 6 shot types:
 
